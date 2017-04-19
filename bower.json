@@ -1,0 +1,22 @@
+{
+  "name": "passportToDreamforce",
+  "homepage": "https://github.com/passportToDreamforce/passportToDreamforce.github.io",
+  "authors": [
+    "Patrick Connelly <patrick@deadlypenguin.com>"
+  ],
+  "description": "This project is a community-sourced and curated list of links/information for international travelers heading to salesforce.com's Dreamforce conference.",
+  "main": "",
+  "license": "GPLv3",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "salesforce-lightning-design-system": "^2.2.2",
+    "jquery": "^3.2.1"
+  }
+}

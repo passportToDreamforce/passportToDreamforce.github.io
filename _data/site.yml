@@ -1,0 +1,32 @@
+maintitle:
+     en: Passport to Dreamforce
+description:
+     en: |
+          <p>Traveling to the United States for Dreamforce 2017?</p>
+           <p>This project is a community-sourced and curated list of links/information for international travelers heading to salesforce.com's Dreamforce conference. Pull Requests are welcome.</p>
+footer:
+     preamble:
+          en: Got corrections, additions or bugs?
+     link:
+          en: Let us know!
+
+opengraph:
+     en:
+          title: Passport to Dreamforce 
+          desc: This project is a community-sourced and curated list of links/information for international travelers heading to salesforce.com's Dreamforce conference.
+          image: /images/opengraph_large.png
+
+twitter:
+     en:
+          image: /images/twitter_large.png
+
+sections:
+     - planningahead
+     - airport
+     - city
+     - headinghome
+
+default_lang: en
+
+langs:
+     - en
