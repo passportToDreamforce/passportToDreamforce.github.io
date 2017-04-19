@@ -10,6 +10,10 @@ links:
           url: https://www.cbp.gov/travel/international-visitors/know-before-you-go
           desc: The more international travelers know about what to expect, the easier and quicker the process becomes.
      - en:
-          name: Travler Entry Forms
+          name: Traveler Entry Forms
           url: https://www.cbp.gov/travel/clearing-cbp/traveler-entry-form
           desc: Whether you are a visitor to the United States or a U.S. citizen arriving in the United States, you must complete one or more entry forms.
+     - en:
+          name: Digital Privacy at the U.S Border
+          url: https://www.eff.org/press/releases/digital-privacy-us-border-new-how-guide-eff
+          desc: A "how-to guide" from the Electronic Frontier Foundation
