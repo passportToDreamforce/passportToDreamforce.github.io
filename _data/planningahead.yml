@@ -6,23 +6,23 @@ links:
           name: US Visitor Visas
           url: https://travel.state.gov/content/visas/en/visit/visitor.html
           desc: Learn about visa category B-1: attending a scientific, educational, professional, or business conference.
+       prt:
+          name: US Visitor Visas
+          url: https://travel.state.gov/content/visas/en/visit/visitor.html
+          desc: Saiba mais sobre a categoria de visto B-1: assistir a uma conferência científica, educacional, profissional ou de negócios.
      - en:
           name: Designated Countries for the Visa Waiver Program (VWP)
           url: https://travel.state.gov/content/visas/en/visit/visa-waiver-program.html
           desc: Citizens or nationals of certain countries are currently eligible to travel to the United States under the VWP.
+       prt:
+          name: Designated Countries for the Visa Waiver Program (VWP)
+          url: https://travel.state.gov/content/visas/en/visit/visa-waiver-program.html
+          desc: Cidadãos ou nacionais de certos países são atualmente elegíveis para viajar para os Estados Unidos no âmbito do VWP.
      - en:
           name: Applying for a B-1 Temporary Visitor Visa
           url: https://travel.state.gov/content/visas/en/forms/ds-160--online-nonimmigrant-visa-application.html
           desc: The online nonimmigrant visa application (DS-160) page.
-     - prt:
-          name: US Visitor Visas
-          url: https://travel.state.gov/content/visas/en/visit/visitor.html
-          desc: Saiba mais sobre a categoria de visto B-1: assistir a uma conferência científica, educacional, profissional ou de negócios.
-     - prt:
-          name: Designated Countries for the Visa Waiver Program (VWP)
-          url: https://travel.state.gov/content/visas/en/visit/visa-waiver-program.html
-          desc: Cidadãos ou nacionais de certos países são atualmente elegíveis para viajar para os Estados Unidos no âmbito do VWP.
-     - prt:
+      prt:
           name: Applying for a B-1 Temporary Visitor Visa
           url: https://travel.state.gov/content/visas/en/forms/ds-160--online-nonimmigrant-visa-application.html
           desc: A aplicação online de visto de não-imigrante (DS-160).
