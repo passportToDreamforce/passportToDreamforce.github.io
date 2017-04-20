@@ -1,6 +1,6 @@
 title:
      en: Planning Ahead
-     prt: Planejando à frente
+     
 links:
      - en:
           name: US Visitor Visas
@@ -9,7 +9,7 @@ links:
        prt:
           name: US Visitor Visas
           url: https://travel.state.gov/content/visas/en/visit/visitor.html
-          desc: "Saiba mais sobre a categoria de visto B-1: assistir a uma conferência científica, educacional, profissional ou de negócios."
+          desc: "test one"
      - en:
           name: Designated Countries for the Visa Waiver Program (VWP)
           url: https://travel.state.gov/content/visas/en/visit/visa-waiver-program.html
@@ -17,7 +17,7 @@ links:
        prt:
           name: Designated Countries for the Visa Waiver Program (VWP)
           url: https://travel.state.gov/content/visas/en/visit/visa-waiver-program.html
-          desc: "Cidadãos ou nacionais de certos países são atualmente elegíveis para viajar para os Estados Unidos no âmbito do VWP."
+          desc: "test two"
      - en:
           name: Applying for a B-1 Temporary Visitor Visa
           url: https://travel.state.gov/content/visas/en/forms/ds-160--online-nonimmigrant-visa-application.html
@@ -25,4 +25,4 @@ links:
       prt:
           name: Applying for a B-1 Temporary Visitor Visa
           url: https://travel.state.gov/content/visas/en/forms/ds-160--online-nonimmigrant-visa-application.html
-          desc: "A aplicação online de visto de não-imigrante (DS-160)."
+          desc: "test three"
