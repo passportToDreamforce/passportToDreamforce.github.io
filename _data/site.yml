@@ -4,6 +4,9 @@ description:
      en: |
           <p>Traveling to the United States for Dreamforce 2017?</p>
            <p>This project is a community-sourced and curated list of links/information for international travelers heading to salesforce.com's Dreamforce conference. Pull Requests are welcome.</p>
+     prt: |
+          <p>Viajando para os Estados Unidos para Dreamforce 2017?</p>
+           <p>Este projeto é uma lista de links e informações para viajantes internacionais que se dirigem à conferência Dreamforce da salesforce.com. Pull Requests são bem-vindos.</p>
 footer:
      preamble:
           en: Got corrections, additions or bugs?
