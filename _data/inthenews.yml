@@ -2,6 +2,6 @@ title:
      en: In the News
 links:
      - en:
-          name: Google
-          url: https://google.com
-          desc: This is the googles.  You should know what it is
+          name: Basecamp's International Travel Guide
+          url: https://github.com/basecamp/handbook/blob/master/international-travel-guide.md
+          desc: Basecamp's corporate guide to traveling to the US.
